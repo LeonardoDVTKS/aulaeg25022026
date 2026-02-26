@@ -12,4 +12,5 @@ O usuário pode alterar nome, foto e dados pessoais.
 ### RF04 - Cadastro de novos usuários
 O sistema deve permitir que novos usuários sejam criados.
 
-
+### RF04 - Desativação de conta
+Permite o usuário desativar a própria conta.
